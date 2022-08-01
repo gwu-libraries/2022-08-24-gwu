@@ -198,7 +198,7 @@ This block displays the date and links to Google Calendar.
 {% if page.humandate %}
 <p id="when">
   <strong>How to register:</strong> 
-  Please fill out the <a href="https://forms.gle/YKde3rQyuUSiUqFi7">Registration Form</a> to register.
+  Please fill out the <strong><a href="https://forms.gle/YKde3rQyuUSiUqFi7">Registration Form</a></strong> to register.
 </p>
 {% endif %}
 
