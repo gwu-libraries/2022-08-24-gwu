@@ -198,7 +198,7 @@ This block displays the date and links to Google Calendar.
 {% if page.humandate %}
 <p id="when">
   <strong>How to register:</strong> 
-  <strong>Advance registration by August 19 is required.</strong>  Please fill out the <strong><a href="https://forms.gle/YKde3rQyuUSiUqFi7">Registration Form</a></strong> to register.
+  Advance registration by August 19 is <strong>required</strong>.  Please fill out the <strong><a href="https://forms.gle/YKde3rQyuUSiUqFi7">Registration Form</a></strong> to register.
 </p>
 {% endif %}
 
@@ -216,7 +216,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  They should have a few specific software packages installed (please refer to the <a href="https://gwu-libraries.github.io/genomics-workshop/setup.html">setup instructions</a>).
 </p>
 
 {% comment %}
